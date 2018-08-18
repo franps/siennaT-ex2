@@ -1,0 +1,29 @@
+body {
+  background-color:aquamarine;
+  text-align: center;
+}
+h1 {
+  color: sienna;
+}
+
+.box {
+    color: sienna;
+    border: 3px solid sienna;
+    display:inline-block;
+    width: 200px;
+    margin: 20px 0px 20px 0px;
+}
+.listTitle {
+  background-color: sienna;
+  color:aquamarine;
+}
+.listContent {
+  padding: 5px;
+}
+
+a {
+  display:block;
+}
+a:visited {
+  color: red;
+}
